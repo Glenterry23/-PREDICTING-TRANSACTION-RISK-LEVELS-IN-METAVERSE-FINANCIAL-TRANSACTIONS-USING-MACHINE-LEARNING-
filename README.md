@@ -1,0 +1,2 @@
+# -PREDICTING-TRANSACTION-RISK-LEVELS-IN-METAVERSE-FINANCIAL-TRANSACTIONS-USING-MACHINE-LEARNING-
+Machine-learning models classified metaverse transactions as low, moderate or high risk using 78,600 records. Random Forest performed best (94.18% accuracy, 0.9050 macro-F1), and XGBoost led in cross-validation. Transaction type and session duration were the key features. Results need external validation and human oversight.
